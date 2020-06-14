@@ -1,3 +1,9 @@
+# Turkey
+
+After I had read the article '[City Street Orientations around the World](https://geoffboeing.com/2018/07/city-street-orientations-world/)' from Geoff Boeing, I wondered how Turkish city orientations look like. I've used the [17th notebook](./notebooks/17-street-network-orientations.ipynb) to create the following graph. 
+
+![Turkey City Street Orientation](./static/turkey.png)
+
 # OSMnx Examples
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gboeing/osmnx-examples/master?urlpath=lab)
